@@ -3,7 +3,7 @@
 Joe Udacity  （作者 优达学城）
 December 31st, 2050 （2050-12-31）
 
-## Proposal（）
+## Proposal（题目）
 _(approx. 2-3 pages)_
 
 ### Domain Background（选题背景）

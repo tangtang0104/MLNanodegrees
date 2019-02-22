@@ -31,3 +31,5 @@ kaggle结果：
  test：初加工的测试集，model_improve可调用
  train：初加工的训练集，model_improve可调用
  sub_df：最终提交kaggle的预测值
+ model_4：保存的模型
+ model_5:保存的模型

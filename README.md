@@ -20,3 +20,14 @@
 kaggle结果：
     Private Score：0.12165
     Public Score：0.11031
+
+文件说明：
+ pictures：报告添加的图片
+ data：原始数据集
+ capstone：数据探视
+ analysis：数据分析
+ model_selection：模型选择
+ model_improve:模型改善
+ test：初加工的测试集，model_improve可调用
+ train：初加工的训练集，model_improve可调用
+ sub_df：最终提交kaggle的预测值
